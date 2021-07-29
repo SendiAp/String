@@ -25,10 +25,10 @@ tutor = """
 """
 
 template = """
-Thank you for Support Geez Projects
+Thank you for Support Sendi 
             
 <code>STRING_SESSION</code>: <code>{}</code>
-⚠️ <b>Please be carefull to pass this value to third parties</b>"""
+⚠️Join My Grub/Channel : @Rose_Userbot / @fckyoupeople1"""
 
 
 print(docs)
